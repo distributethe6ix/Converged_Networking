@@ -8,12 +8,21 @@ Please review **Converged_Networking_(circa_2015).md** for more details.
 **Contents:**
 
 **Intended Audience**
+
 **Introduction to Converged Networking**
+
 **High Availability**
+
 **Before we get to FCoE: Fiber Channel**
+
 **And then there was Ethernet**
+
 **Fiber Channel over Ethernet**
+
 **FCoE Components**
+
 **NPV and NPIV**
+
 **FCoE Port Types**
+
 **Storage Protocols Comparison**
